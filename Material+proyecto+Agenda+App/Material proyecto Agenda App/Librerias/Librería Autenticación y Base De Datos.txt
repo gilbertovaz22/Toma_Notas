@@ -1,0 +1,8 @@
+  
+LIBRERÍA AUTENTICACIÓN: 	
+
+  implementation 'com.google.firebase:firebase-auth:20.0.1'     /*AUTENTICACIÓN DE FIREBASE*/
+  
+LIBRERÍA BASE DE DATOS:
+
+  implementation 'com.google.firebase:firebase-database:19.6.0' /*BASE DE DATOS DE FIREBASE*/
